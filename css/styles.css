@@ -1,0 +1,53 @@
+* {
+ box-sizing: border-box;
+}
+
+body {
+ padding-top: 100px;
+}
+
+.card > img {
+ height: 190px;
+}
+
+
+.container {
+ padding: 0;
+}
+
+
+.bg-secondary {
+ background-color: rgb(230, 230, 230)!important;
+}
+
+.navbar-brand > img {
+ height: 40px;
+}
+
+h1 {
+ font-family: 'Abril Fatface','Times New Roman', Times, serif;
+ letter-spacing: 0.8rem;
+ color: rgb(34, 110, 91);
+}
+
+.rounded-corners{
+ border-radius: 10% 10% 0 10%;
+}
+
+.card-corners{
+ border-radius: 10% 10% 0 0;
+}
+
+.link-margin {
+  margin-top: -65px;
+  padding-top: 65px;
+}
+
+.card {
+ padding: 0;
+}
+
+
+.flex-gap > div {
+ margin: 10px;
+}
